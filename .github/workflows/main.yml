@@ -1,0 +1,29 @@
+name: 📅 Isometric commit calendar - Full-year calendar
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+jobs:
+  commit_callendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    steps:
+      - name: 📅 Isometric commit calendar - Full-year calendar
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          output_action: commit
+          committer_branch: master
+          committer_message: "action: updated calendar"
+          delay: 1
+          user: kubaty007
+          plugins_errors_fatal: yes
+        if: ${{ success() || failure() }}
+        
