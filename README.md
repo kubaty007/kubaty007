@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![alt calendar](https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg?raw=true)
+
 <!--
 **kubaty007/kubaty007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
