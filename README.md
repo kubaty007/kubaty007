@@ -4,6 +4,7 @@
 </div>
 <div align="center">
 ![](https://komarev.com/ghpvc/?username=kubaty007&color=brightgreen)
+</div>
 
 <!--
 **kubaty007/kubaty007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
