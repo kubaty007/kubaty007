@@ -2,9 +2,9 @@
 <div align="center">
 <img src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
 </div>
-<div align="center">
-![](https://komarev.com/ghpvc/?username=kubaty007&color=brightgreen)
-</div>
+
+![](https://komarev.com/ghpvc/?username=kubaty007)
+
 
 <!--
 **kubaty007/kubaty007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
