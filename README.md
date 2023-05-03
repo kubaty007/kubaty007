@@ -1,11 +1,8 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <h2>Hi there 👋</h2>
-  </div>
-  <div>
-    <img src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
-  </div>
-</div>
+
+<h2>Hi there 👋</h2>
+<h3>
+  <img src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=kubaty007&color=brightgreen)
 
