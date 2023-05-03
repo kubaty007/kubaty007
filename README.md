@@ -1,6 +1,6 @@
 <div>
   <div align="left">
-    Hi there 👋
+    <h1>Hi there 👋</h1>
   </div>
   <div align="right">
     <img src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
