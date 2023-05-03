@@ -3,7 +3,7 @@
 <img src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
 </div>
 
-![](https://komarev.com/ghpvc/?username=kubaty007)
+![](https://komarev.com/ghpvc/?username=kubaty007&color=brightgreen)
 
 
 <!--
