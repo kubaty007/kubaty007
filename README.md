@@ -1,10 +1,8 @@
-<div>
-  <div align="left">
-    <h1>Hi there 👋</h1>
-    
-    dsadsa asd asd dsadasd
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <h2>Hi there 👋</h2>
   </div>
-  <div align="right">
+  <div>
     <img src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg" alt="calendar">
   </div>
 </div>
