@@ -9,7 +9,7 @@
   <img align="right" top="500" alt="activity calendar" src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg">
 </p>
 
-- 💻 I’m currently working at <a href="https://www.trol.pl" target="_blank">Trol InterMedia</a>
+- 💻 I’m currently working at <a href="https://www.trol.pl" target="_blank">Trol Intermedia</a>
 
 - 📚 I’m studying computer science
 
