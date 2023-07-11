@@ -24,7 +24,7 @@
   Some of languages and tools I use:
   <br>
   <br>
-  <img src="https://skillicons.dev/icons?i=git,gitlab,idea,mysql,php,sass" />
+  <!--<img src="https://skillicons.dev/icons?i=git,gitlab,idea,mysql,php,sass" />-->
 </p>
 
 
