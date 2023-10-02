@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <img align="right" top="500" alt="activity calendar" src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg">
+  <img top="500" alt="activity calendar" src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg">
 </p>
 
 
