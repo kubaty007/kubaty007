@@ -1,21 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">Web developer from Poland &#127477;&#127473;</h3>
 
-<p align="left">
+<p>
   <img src="https://komarev.com/ghpvc/?username=kubaty007&color=brightgreen" alt="kubaty007 profile views"/>
 </p>
 
-<p align="center">
+<p>
   <img align="right" top="500" alt="activity calendar" src="https://github.com/kubaty007/kubaty007/blob/master/metrics.plugin.isocalendar.fullyear.svg">
 </p>
 
-- 💻 I’m currently working at <a href="https://www.trol.pl" target="_blank">Trol Intermedia</a>
-
-- 📚 I’m studying computer science
-
-- 🛠️ In free time DIY fan
-
-- ⚡ I like trying new things
 
 <br>
 <br>
