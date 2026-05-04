@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,symfony,js,ts,jest,sass,git,phpstorm,postman,githubactions" />
+  <img src="https://skillicons.dev/icons?i=symfony,vue,git,phpstorm,postman,githubactions,nginx" />
 </p>
 
 
